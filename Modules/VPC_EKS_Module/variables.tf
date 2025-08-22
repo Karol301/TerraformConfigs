@@ -1,3 +1,4 @@
+#VPC
 variable "cidr_block_vpc" {
   description = "CIDR block for VPC"
   type = string
